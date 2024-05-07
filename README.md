@@ -21,7 +21,7 @@ This repository serves as the central hub for all resources, documentation for t
   
 Thank you for being a part of the Byte Bash Blitz community! Let's learn, grow, and innovate together.
 
-Happy learning! 💻✨
+learning! 💻✨
 
 [**next >**](#)
 
