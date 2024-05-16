@@ -27,6 +27,6 @@ Happy learning! 💻✨
 
 [**Prerequisite**](/contents/prerequisite.md)
 
-[**Table of Contents**](/contents/table-of-contents.md)
+[**Table of Contents**](/contents/)
 
 
