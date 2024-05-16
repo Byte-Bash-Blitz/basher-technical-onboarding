@@ -4,9 +4,9 @@
 ### Foundations of Computer Science
 1. [ Introduction to Computer Hardware](Day-1.md)
 2. [Files and Operating Systems](Day-2.md)
-3. [ Introduction to Operating Systems (OS)](/os)
-4. [Introduction to Browsers](/browser)
-5. [ Understanding Binary](/binary)
+3. [ Introduction to Operating Systems (OS)](contents/os)
+4. [Introduction to Browsers](contents/browser)
+5. [ Understanding Binary](contents/binary)
 
 ### Programming Fundamentals
 6. [Introduction to Programming](Day-6.md)
