@@ -5,8 +5,8 @@
 1. [ Introduction to Computer Hardware](Day-1.md)
 2. [Files and Operating Systems](Day-2.md)
 3. [ Introduction to Operating Systems (OS)](Day-3.md)
-4. [Introduction to Browsers](Day-4.md)
-5. [ Understanding Binary](Day-5.md)
+4. [Introduction to Browsers](/browser)
+5. [ Understanding Binary](/binary)
 
 ### Programming Fundamentals
 6. [Introduction to Programming](Day-6.md)
